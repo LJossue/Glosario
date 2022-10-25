@@ -1,0 +1,46 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+  text-align: center;
+  color: green;
+  font-size: 60px;
+}
+h2 {
+  color: green;
+  font-size: 50px;
+}
+.indice {
+  text-align: center;
+  border: 2px solid #73ad21;
+  border-radius: 5px;
+  padding: 10px;
+}
+.volver {
+  text-align: right;
+  font-size: 18px;
+}
+hr {
+  background-color: #73ad21;
+  height: 2px;
+}
+a:link {
+  color: #73ad21;
+  text-decoration: none;
+}
+a:visited {
+  color: green;
+  text-decoration: none;
+}
+a:active {
+  color: blue;
+}
+img {
+  border-radius: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 200px;
+}
